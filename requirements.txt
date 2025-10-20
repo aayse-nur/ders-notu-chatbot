@@ -1,0 +1,23 @@
+# RAG Chatbot Projesi için Gerekli Kütüphaneler
+
+# LangChain Ana Bileşenleri
+langchain-core
+langchain-community
+
+# Veri Okuma ve Yükleme
+pypdf
+pypdfium2
+
+# OpenAI Entegrasyonu (LLM ve Embedding)
+langchain-openai
+openai
+tiktoken
+
+# Vektör Veritabanı
+chromadb
+
+# Ortam Değişkeni Yönetimi
+python-dotenv
+
+# Chatbot Arayüzü
+streamlit
