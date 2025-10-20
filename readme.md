@@ -79,6 +79,8 @@ pypdf
 chromadb
 
 
+
+
 3. API Anahtarı Ayarı (Streamlit Secrets - KRİTİK ADIM)
 
 Kod, API anahtarınızı güvenli bir şekilde Streamlit Secrets üzerinden okuyacaktır. Bu ayar, Streamlit Cloud arayüzünde yapılmalıdır:
@@ -90,6 +92,8 @@ Streamlit Cloud'da uygulamanızı yayınlarken veya Ayarlar (Settings) bölümü
 Aşağıdaki formatta bir gizli anahtar ekleyin:
 
 OPENAI_API_KEY = "sk-SENİN_ANAHTARIN_BURAYA_GELMELİ"
+
+
 
 
 Uyarı: Anahtar adı (OPENAI_API_KEY), app.py dosyasındaki kod ile birebir eşleşmelidir.
