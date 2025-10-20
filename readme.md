@@ -47,12 +47,16 @@ Uygulamanın Streamlit Cloud'da çalışması için, yeni deponuzda (`ders-notu-
 Streamlit Cloud, bu dosyayı okuyarak gerekli tüm kütüphaneleri otomatik olarak kurar.
 
 
-
 streamlit
-langchain
+langchain-core
+langchain-community
 langchain-openai
-pypdf
+openai
+tiktoken
 chromadb
+pypdf
+pypdfium2
+python-dotenv
 
 
 ### 3. API Anahtarı Ayarı (**Streamlit Secrets** - KRİTİK ADIM)
